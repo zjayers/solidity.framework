@@ -1,8 +1,7 @@
 # Solidity Framework
-[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.framework.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.framework.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.framework.svg?style=flat)](https://github.com/zjayers/solidity.framework/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.framework.svg?style=flat)](https://github.com/zjayers/solidity.framework/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/solidity.framework.svg?maxAge=25000)](https://github.com/zjayers/solidity.framework/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/solidity.framework/blob/master/LICENSEs)
 
 ## Description
 
